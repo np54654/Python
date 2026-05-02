@@ -1,0 +1,12 @@
+# Jupitor notebook file extension is: ".ipynb"
+
+> For heading use single # for sub heading use duble  ## then click SHIFT + ENTER to see the result.
+> now you can write notes in hupitor notebook as well as codes and run them if 
+kernel is installed.
+> For code click "+ code" and enter your code then shift + enter to execute and it will 
+simply ask you the environment to select, once environment selected it if kernal available 
+then ok else error will come.
+> to install kernel use : "pip install ipykernel" in terminal and press enter.
+>> Also you do not have to install every ingle library every time you can create 
+"requirments.txt" file then enter the reuirments as in this folder and execute them in termilnal
+as "pip install requirments.txt".
